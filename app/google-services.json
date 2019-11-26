@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "323970950608",
+    "firebase_url": "https://hospital-admin.firebaseio.com",
+    "project_id": "hospital-admin",
+    "storage_bucket": "hospital-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323970950608:android:f3ed09423ad93582",
+        "android_client_info": {
+          "package_name": "com.hostpital.hospitaladmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323970950608-fmnjblu98rjaicj3o3spgbve3n84c70g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hostpital.hospitaladmin",
+            "certificate_hash": "13c062ae26652eee737c67c100c658e530061351"
+          }
+        },
+        {
+          "client_id": "323970950608-rmlajtn8qkscq6cjj47pbukafilh6h3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2LbGFUnz9oZpRTl-LCtoD-Lx88pZXsC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323970950608-rmlajtn8qkscq6cjj47pbukafilh6h3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
